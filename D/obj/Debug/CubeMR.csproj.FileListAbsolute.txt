@@ -1,0 +1,7 @@
+c:\Codeforces\Round Cube\Round\D\bin\Debug\CubeMR.exe.config
+c:\Codeforces\Round Cube\Round\D\bin\Debug\CubeMR.exe
+c:\Codeforces\Round Cube\Round\D\bin\Debug\CubeMR.pdb
+c:\Codeforces\Round Cube\Round\D\obj\Debug\CubeMR.csproj.SuggestedBindingRedirects.cache
+c:\Codeforces\Round Cube\Round\D\obj\Debug\CubeMR.csproj.CoreCompileInputs.cache
+c:\Codeforces\Round Cube\Round\D\obj\Debug\CubeMR.exe
+c:\Codeforces\Round Cube\Round\D\obj\Debug\CubeMR.pdb
